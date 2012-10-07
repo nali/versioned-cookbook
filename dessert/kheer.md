@@ -1,6 +1,6 @@
 #Kheer (Rice Pudding) for 6n
 
-![Kheer](../pictures/kheer.jpeg)
+![Kheer](versioned-cookbook/tree/master/pictures/kheer.jpeg)
 
 - n cups of rice (medium grain)
 - n vanilla beans
