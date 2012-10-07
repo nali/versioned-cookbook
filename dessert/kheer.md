@@ -4,7 +4,7 @@
 - n vanilla beans
 - 5n whole cardamon pods
 - n/2 tsp cinnamon
-- n/2 cup sugar
+- n/2 cups sugar
 - 3n cups full-fat milk
 - n/2 cups cream
 
