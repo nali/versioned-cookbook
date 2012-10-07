@@ -1,5 +1,7 @@
 #Kheer (Rice Pudding) for 6n
 
+![Kheer](../pictures/kheer.jpeg)
+
 - n cups of rice (medium grain)
 - n vanilla beans
 - 5n whole cardamon pods
