@@ -9,7 +9,8 @@
 - n/2 cups cream
 
 1. Wash the rice in two or three rinses of water.
-2. Add all the ingredients to a pot, except for the cream. Bring to a boil, then reduce to a simmer.
+2. Slice the vanilla bean down the middle, and then scrape out innards and add to a pot.
+2. Add the rest of the ingredients to the pot, except for the cream. Bring to a boil, then reduce to a simmer.
 3. Simmer gently for 1 hour, or until the rice is cooked.
 4. Stir in the cream, and then remove from heat.
 
