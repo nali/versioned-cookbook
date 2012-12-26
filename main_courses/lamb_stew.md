@@ -1,4 +1,4 @@
-# Lamb stew for roughly 8  Kheer (Rice Pudding) for 6n
+# Lamb stew for roughly 8
 
 - roughly a kilo of lamb forequarter
 - 2 big onions
