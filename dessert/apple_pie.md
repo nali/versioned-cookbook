@@ -1,12 +1,15 @@
 # American apple pie
 
-##Pie:
+## Pie:
+
 - 4 dl of wheat flour
 - 2 tbsp sugar
 - 1/2 tbsp salt
 - 150 g butter
 - 4 tbsp cold water
+
 ## Filling:
+
 - approx 800 g of sour apples
 - 2 tbsp lemon juice
 - 1 dl sugar
@@ -14,7 +17,9 @@
 - 1/2 dl wheat flour
 - 1/4 tsp ground nutmeg
 - 3 tbsp butter
+
 ## On top:
+
 - 1 egg white
 - 1 tbsp milk
 
