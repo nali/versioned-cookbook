@@ -22,7 +22,7 @@ Icing:
 3. Let the cake cool. Typically the cake forms a hump in the middle, level it off with a knife.
 4. Prepare the meringue icing. Break the eggs, separate the eggwithe and discard yolks. Whip the eggwhites into a foam so stiff that you can turn the bowl downright without making a mess. Add sugar and blend well.
 5. Cut the fillings and add on top of the cake, first the fruits or berries, then ice cream on top. Finally cover the whole thing with the meringue dough.
-6. Put in an oven on the top shelf for about 2 minutes to give the meringue a bit of a brownish shade. Serve instantly.
+6. Put in an oven on the top shelf at 225 degrees for about 2 minutes to give the meringue a bit of a brownish shade. Serve instantly.
 
 
 ![Alt](https://raw.github.com/nali/versioned-cookbook/master/pictures/ovenice1.jpg)
