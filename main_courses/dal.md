@@ -1,6 +1,6 @@
-DAL
+#Dal
 
-INGREDIENTS
+###Ingredients
 1 cup of lentils (any type)
 1 tsp garam masala
 1 tsp of tomato paste or 1 fresh tomato 
@@ -13,7 +13,7 @@ INGREDIENTS
 chillies, chopped (optional)
 
 
-METHOD
+###Method
 
 1. Wash lentils well. Place in pot with garam masala, tomato paste, chicken stock cube and 2-3 cups of water. Bring to boil and then allow to simmer for 1 hour, skimming any froth off the top. At this point, you may want to puree the mixture using a stab mixer or blender, or, if you prefer your dal chunky, leave it as it is.
 

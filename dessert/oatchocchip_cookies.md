@@ -1,6 +1,6 @@
-CHOCOLATE CHIP & OAT COOKIES
+#Chocolate chip & oat cookies
 
-INGREDIENTS
+###Ingredients
 
 1 cup butter, softened
 1 cup packed light brown sugar
@@ -14,7 +14,7 @@ INGREDIENTS
 1 cup chopped walnuts
 1 cup semisweet chocolate chips
 
-METHOD
+###Method
 
 1. Preheat the oven to 160 degrees C.
 
