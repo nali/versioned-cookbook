@@ -23,3 +23,5 @@
 3. Combine the flour, baking soda, and salt; stir into the creamed mixture until just blended. Mix in the quick oats, walnuts, and chocolate chips. Shape into table tennis size balls and press down slightly. Placed on ungreased baking sheet.
 
 4. Bake for 10 minutes in the preheated oven. Allow cookies to cool on baking sheet for 5 minutes before transferring to a wire rack to cool completely.
+
+
