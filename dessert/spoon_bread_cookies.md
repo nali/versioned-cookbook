@@ -1,4 +1,4 @@
-# Spoon-shaped cookies (fin. Lusikkaleipä)
+# Spoon-shaped cookies (fin. Lusikkaleipä), approx 30 pieces
 
 ###Ingredients
 
