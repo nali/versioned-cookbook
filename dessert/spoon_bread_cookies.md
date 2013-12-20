@@ -2,7 +2,7 @@
 
 ###Ingredients
 
-## Dough
+#### Dough
 
 200 g butter
 1 1/2 dl sugar
@@ -10,11 +10,11 @@
 4 1/2 general purpose flour
 1 teaspoon baking soda
 
-## filling
+#### filling
 
 approx. 1 dl raspberry jelly
 
-## topping (optional)
+#### topping (optional)
 
 sugar
 
