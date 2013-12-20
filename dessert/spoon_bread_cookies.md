@@ -10,11 +10,11 @@
 4 1/2 general purpose flour
 1 teaspoon baking soda
 
-#### filling
+#### Filling
 
 approx. 1 dl raspberry jelly
 
-#### topping (optional)
+#### Topping (optional)
 
 sugar
 
