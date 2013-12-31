@@ -5,3 +5,7 @@
 *.log
 *.toc
 *.dvi
+*.oug
+*.synctex.gz*
+*.out
+
