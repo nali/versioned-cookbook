@@ -7,10 +7,36 @@
 \usepackage{hyperref}
 \usepackage{amsmath,amssymb}
 \usepackage{clock}
+\usepackage{etoolbox}% http://ctan.org/pkg/etoolbox
 \setcounter{secnumdepth}{0}
 \frenchspacing
 
 \newcommand{\category}[1]{\newpage \section*{{#1}}  \addcontentsline{toc}{section}{{#1}} }
 \newcommand{\recipe}[1]{\subsection*{{#1}}  \addcontentsline{toc}{subsection}{{#1}} }
+\newcommand{\yield}[1]{#1}
+\newcommand{\activetime}[1]{Preparation: {#1}}
+\newcommand{\totaltime}[1]{Total duration: {#1}}
+\newcommand{\thetimes}[2]{\activetime{#1}, \totaltime{#2}}
+\newcommand{\recipetitle}[4]{\recipe{#1} \yield{#2} \thetimes{#3}{#4} }
 \newcommand{\toc}[0]{\newpage \tableofcontents \newpage}
+\newcommand{\istarter}[0]{\subsubsection*{Ingredients} \begin{tabular}{ll} } 
+\newcommand{\iender}[0]{  \end{tabular} \\}
+\newcommand{\ingredient}[2]{{#1} & {#2}}
+
+%%% This copied originally from 
+%%% http://tex.stackexchange.com/questions/118114/commands-that-may-take-a-variable-number-of-arguments
+
+\makeatletter
+\newcommand{\newdecl}[2]{\csgdef{decl@#1}{#2}}% Creates a declaration
+\newcommand{\csvdel}{}% Delimiter used in CSV representation
+\newcommand{\ingredients}[2][\\]{% Use a declaration
+  \renewcommand{\csvdel}{\renewcommand{\csvdel}{#1\,}}% Delay \csvdel one cycle.
+  \csname decl@#2\endcsname \istarter \checknextarg}
+\newcommand{\checknextarg}{\@ifnextchar\bgroup{\gobblenext}{}}% Check if another "argument" exists
+\newcommand{\gobblenext}[1]{\csvdel#1\@ifnextchar\bgroup{\gobblenext}{ \iender}}% Gobble next "argument"
+\makeatother
+
+\newdecl{foo}{FOO}
+\newdecl{bar}{BAR}
+
 
