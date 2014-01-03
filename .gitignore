@@ -5,3 +5,6 @@
 *.log
 *.toc
 *.dvi
+*.synctex.gz*
+*.out
+
