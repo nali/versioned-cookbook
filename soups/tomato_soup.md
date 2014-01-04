@@ -27,6 +27,6 @@
 9. Serve with a decoration of mozzarella and basil leaves in the soup.
 
 
-![Alt](https://raw.github.com/nali/versioned-cookbook/master/pictures/pancake.jpg)
+![Alt](https://raw.github.com/nali/versioned-cookbook/master/pictures/tomatosoup.jpg)
 
 
