@@ -2,16 +2,16 @@
 
 ###Ingredients
 
-1/2 cup butter, softened
-3/4 cups white sugar
-1 egg
-1 1/4 cups general purpose flour
-1 teaspoon cream of tartar
-1/2 teaspoon baking soda
-1/4 teaspoon salt
-1 (8 ounce) package cream cheese
-1/2 icing sugar
-2 teaspoons vanilla extract
+- 1/2 cup butter, softened
+- 3/4 cups white sugar
+- 1 egg
+- 1 1/4 cups general purpose flour
+- 1 teaspoon cream of tartar
+- 1/2 teaspoon baking soda
+- 1/4 teaspoon salt
+- 1 (8 ounce) package cream cheese
+- 1/2 icing sugar
+- 2 teaspoons vanilla extract
 
 Selection of fruits and/or berries for the topping
 
