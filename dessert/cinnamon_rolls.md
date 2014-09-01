@@ -20,7 +20,7 @@ Decoration:
 
 1. Mix yeast into warm milk. Add eggs, sugar, spices and a few deciliters of flour. Mix into a homogenous mixture.
 2. Add the rest of the flour little by little while stirring with your hands. (Keep one hand clean in case the telephone rings) until the dough no longer sticks to the sides of the dough bowl.
-3. Let the double in size under a cloth in a place with no draft.
+3. Let the dough double in size under a cloth in a place with no draft.
 4. Use a rolling pin to spread the dough into two 60-by-30 cm squares.
 5. Spread the soft butter on the thin dough plates, sprinkle the sugar and cinnamon on top.
 6. Roll the dough into a roll, leave the seam facing down. Cut the rolls with a sharp knife into triangular shapes.
