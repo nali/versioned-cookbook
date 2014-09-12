@@ -1,7 +1,6 @@
 # Finnish style oven pancake (Pannukakku)
 
 - 4 dl general purpose flour
-- 1 1/2 dl sugar
 - 1 teaspoon baking powder
 - 1 teaspoon salt
 - 8 dl milk
