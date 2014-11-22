@@ -9,7 +9,7 @@
 
 1. Mix all the dry ingredients
 2. Add milk, eggs and cooled butter
-3. Pour dough onto a paper lined oven pan and bake in 225 degrees C for 30 minutes
+3. Pour dough onto a paper lined oven pan and bake in 225 degrees C for roughly 60 minutes until the surface has got some color on it.
 4. Cool down under a cloth and serve with jelly and/or whipped cream
 
 ![Alt](https://raw.github.com/nali/versioned-cookbook/master/pictures/pancake.jpg)
