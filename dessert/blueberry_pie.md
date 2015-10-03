@@ -6,6 +6,8 @@ with potato flour replaced by corn flour for its availability.
 
 ##Ingredients
 
+###Crust
+
 - 150 g butter
 - 1 dl sugar
 - 1 egg
@@ -13,7 +15,8 @@ with potato flour replaced by corn flour for its availability.
 - 1 tsp baking powder
 - 1 tbsp cardamom
 
-###Crust
+###Filling
+
 - 75 ml corn flour
 - 50 ml sugar
 - 400 ml low fat milk
